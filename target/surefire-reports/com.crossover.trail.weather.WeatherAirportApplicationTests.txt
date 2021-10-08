@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.crossover.trail.weather.WeatherAirportApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.909 sec - in com.crossover.trail.weather.WeatherAirportApplicationTests
